@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>item1</key>
+	<dict>
+		<key>ItemTitle</key>
+		<string>全部分类</string>
+		<key>ItemID</key>
+		<integer>0</integer>
+	</dict>
+	<key>item2</key>
+	<dict>
+		<key>ItemTitle</key>
+		<string>数码产品</string>
+		<key>ItemID</key>
+		<integer>1</integer>
+	</dict>
+	<key>item3</key>
+	<dict>
+		<key>ItemTitle</key>
+		<string>日用百货</string>
+		<key>ItemID</key>
+		<integer>2</integer>
+	</dict>
+	<key>item4</key>
+	<dict>
+		<key>ItemTitle</key>
+		<string>服装家纺</string>
+		<key>ItemID</key>
+		<integer>3</integer>
+	</dict>
+	<key>item5</key>
+	<dict>
+		<key>ItemTitle</key>
+		<string>汽车用品</string>
+		<key>ItemID</key>
+		<string>4</string>
+	</dict>
+	<key>item6</key>
+	<dict>
+		<key>ItemTitle</key>
+		<string>全部城市</string>
+		<key>ItemID</key>
+		<string>0</string>
+	</dict>
+	<key>item7</key>
+	<dict>
+		<key>ItemTitle</key>
+		<string>全国</string>
+		<key>ItemID</key>
+		<string>4</string>
+	</dict>
+</dict>
+</plist>
