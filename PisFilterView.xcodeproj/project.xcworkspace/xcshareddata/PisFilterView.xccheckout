@@ -10,31 +10,31 @@
 	<string>PisFilterView</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>16B0F1FFBD717E7FE51A9BFEC7A4C8111E1CA3ED</key>
-		<string>https://github.com/cyjFS/PisNetwork.git</string>
+		<key>D05F6474A0B8CA1975413E0193A52E2A90680397</key>
+		<string>https://github.com/cyjFS/PisFilterView.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>PisFilterView/PisFilterView.xcodeproj</string>
+	<string>PisFilterView.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>16B0F1FFBD717E7FE51A9BFEC7A4C8111E1CA3ED</key>
-		<string>../../..</string>
+		<key>D05F6474A0B8CA1975413E0193A52E2A90680397</key>
+		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/cyjFS/PisNetwork.git</string>
+	<string>https://github.com/cyjFS/PisFilterView.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>16B0F1FFBD717E7FE51A9BFEC7A4C8111E1CA3ED</string>
+	<string>D05F6474A0B8CA1975413E0193A52E2A90680397</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>16B0F1FFBD717E7FE51A9BFEC7A4C8111E1CA3ED</string>
+			<string>D05F6474A0B8CA1975413E0193A52E2A90680397</string>
 			<key>IDESourceControlWCCName</key>
-			<string>PisNetwork</string>
+			<string>PisFilterView</string>
 		</dict>
 	</array>
 </dict>
