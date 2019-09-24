@@ -7,4 +7,3 @@
 ![](https://github.com/cyjFS/PisFilterView/raw/master/PisFilterView/Untitled.gif)
 
 
-(ps:请自行导入相关文件到mode和view文件夹，不知道为什么上传上去会这样，懂得教教我)
